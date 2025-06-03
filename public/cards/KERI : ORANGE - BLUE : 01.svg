@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 198.43 198.43">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Roboto-Black, Roboto;
+        font-size: 14px;
+        font-weight: 800;
+        letter-spacing: .03em;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        font-size: 16px;
+        letter-spacing: .01em;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #f48120;
+      }
+
+      .cls-3, .cls-2 {
+        font-family: Roboto-Medium, Roboto;
+        font-weight: 500;
+      }
+
+      .cls-5 {
+        fill: #e6e6e6;
+      }
+
+      .cls-2 {
+        font-size: 11px;
+        letter-spacing: -.02em;
+      }
+
+      .cls-6 {
+        fill: #4462ac;
+      }
+    </style>
+  </defs>
+  <rect class="cls-5" x="-1306.58" y="-1090.06" width="3930.35" height="5891"/>
+  <rect class="cls-4" x="-2.98" y="-2.85" width="204.38" height="29.76"/>
+  <text class="cls-1" transform="translate(83.61 18.06)"><tspan x="0" y="0">KERI</tspan></text>
+  <text class="cls-3" transform="translate(54.87 114.37)"><tspan x="0" y="0">MAE KEAGE</tspan></text>
+  <polygon class="cls-6" points="201.4 26.91 157.55 26.91 170.65 -2.85 201.4 -2.85 201.4 26.91"/>
+  <text class="cls-2" transform="translate(168.97 17.69)"><tspan x="0" y="0">9º</tspan></text>
+</svg>

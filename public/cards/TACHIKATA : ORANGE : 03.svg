@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 198.43 198.43">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 16px;
+        letter-spacing: .01em;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #f48120;
+      }
+
+      .cls-1, .cls-3 {
+        font-family: Roboto-Medium, Roboto;
+        font-weight: 500;
+      }
+
+      .cls-4 {
+        fill: #e6e6e6;
+      }
+
+      .cls-5 {
+        font-family: Roboto-Black, Roboto;
+        font-size: 14px;
+        font-weight: 800;
+      }
+
+      .cls-5, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        font-size: 11px;
+        letter-spacing: -.02em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-7 {
+        letter-spacing: .03em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-4" x="-1101.02" y="-476.79" width="3930.35" height="5891"/>
+  <rect class="cls-2" x="-2.98" y="-2.85" width="204.38" height="29.76"/>
+  <text class="cls-5" transform="translate(59.81 18.38)"><tspan class="cls-6" x="0" y="0">T</tspan><tspan class="cls-7" x="8.35" y="0">ACHIK</tspan><tspan class="cls-6" x="51.85" y="0">AT</tspan><tspan class="cls-7" x="69.27" y="0">A</tspan></text>
+  <text class="cls-1" transform="translate(37.87 114.35)"><tspan x="0" y="0">SANCHIN DACHI</tspan></text>
+  <text class="cls-3" transform="translate(164.51 17.69)"><tspan x="0" y="0">10º</tspan></text>
+</svg>
