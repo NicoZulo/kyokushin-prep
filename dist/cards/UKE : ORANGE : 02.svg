@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 198.43 198.43">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Roboto-Black, Roboto;
+        font-size: 14px;
+        font-weight: 800;
+        letter-spacing: .03em;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        font-size: 16px;
+        letter-spacing: .01em;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: #f48120;
+      }
+
+      .cls-3, .cls-4, .cls-2 {
+        font-family: Roboto-Medium, Roboto;
+        font-weight: 500;
+      }
+
+      .cls-6 {
+        fill: #e6e6e6;
+      }
+
+      .cls-4, .cls-2 {
+        font-size: 11px;
+      }
+
+      .cls-2 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-7 {
+        letter-spacing: .02em;
+      }
+
+      .cls-8 {
+        letter-spacing: .01em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-6" x="-895.47" y="-885.63" width="3930.35" height="5891"/>
+  <rect class="cls-5" x="-2.98" y="-2.85" width="204.38" height="29.76"/>
+  <text class="cls-4" transform="translate(52.04 130.37)"><tspan class="cls-7" x="0" y="0">(SEIKEN / SHU</tspan><tspan class="cls-8" x="75.79" y="0">T</tspan><tspan class="cls-7" x="82.59" y="0">O)</tspan></text>
+  <text class="cls-1" transform="translate(85.82 18.03)"><tspan x="0" y="0">UKE</tspan></text>
+  <text class="cls-3" transform="translate(28.11 114.18)"><tspan x="0" y="0">MAE GEDAN BARAI</tspan></text>
+  <text class="cls-2" transform="translate(164.51 17.69)"><tspan x="0" y="0">10º</tspan></text>
+</svg>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 198.43 198.43">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Roboto-Black, Roboto;
+        font-size: 14px;
+        font-weight: 800;
+        letter-spacing: .03em;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #e6e6e6;
+      }
+
+      .cls-4 {
+        letter-spacing: .02em;
+      }
+
+      .cls-4, .cls-2 {
+        font-size: 11px;
+      }
+
+      .cls-4, .cls-2, .cls-5 {
+        font-family: Roboto-Medium, Roboto;
+        font-weight: 500;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        fill: #4462ac;
+      }
+
+      .cls-2 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-5 {
+        font-size: 16px;
+      }
+
+      .cls-7 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        letter-spacing: .01em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" x="-1101.02" y="-2324.06" width="3930.35" height="5891"/>
+  <rect class="cls-6" x="-2.98" y="-2.85" width="204.38" height="29.76"/>
+  <text class="cls-4" transform="translate(24.1 130.05)"><tspan x="0" y="0">(JODAN / CHUDAN / GEDAN)</tspan></text>
+  <text class="cls-1" transform="translate(83.61 17.82)"><tspan x="0" y="0">KERI</tspan></text>
+  <text class="cls-5" transform="translate(41.98 114.37)"><tspan class="cls-9" x="0" y="0">M</tspan><tspan class="cls-8" x="14.17" y="0">A</tspan><tspan class="cls-7" x="24.67" y="0">W</tspan><tspan class="cls-9" x="38.57" y="0">ASHI GERI</tspan></text>
+  <text class="cls-2" transform="translate(167.5 17.69)"><tspan x="0" y="0">8º</tspan></text>
+</svg>
